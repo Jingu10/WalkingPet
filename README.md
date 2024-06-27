@@ -292,14 +292,14 @@
 
 ## 7. 팀원 소개
 
-|  이름  |             사진             | 담당 역할 |
-| :----: | :--------------------------: | :-------- |
-| 이지은 | ![](Docs/members/이지은.png) | PM, FE    |
-| 신유진 | ![](Docs/members/신유진.png) | BE Lead   |
-| 여진구 | ![](Docs/members/여진구.png) | FE Lead   |
-| 임현승 | ![](Docs/members/임현승.png) | BE        |
-| 장세영 | ![](Docs/members/장세영.png) | FE        |
-| 정연우 | ![](Docs/members/정연우.png) | BE        |
+|  이름  | 담당 역할 |
+| :----: | :-------- |
+| 이지은 | PM, FE    |
+| 신유진 | BE Lead   |
+| 여진구 | FE Lead   |
+| 임현승 | BE        |
+| 장세영 | FE        |
+| 정연우 | BE        |
 
 <!-- 팀 프로젝트 진행 -->
 <!-- Git -->
