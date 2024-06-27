@@ -1,0 +1,12 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/walkingpet
+  jpa:
+    hibernate:
+      ddl-auto: none
+#      ddl-auto: update
+#  data:
+#    redis:
+#      host: localhost
+#      port: 6379
+

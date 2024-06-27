@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "2904722847",
+    "project_id": "walkingpet-60412",
+    "storage_bucket": "walkingpet-60412.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2904722847:android:21d00c49768f228acf01aa",
+        "android_client_info": {
+          "package_name": "com.walkerholic.walkingpet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsZWDSEVWbpjMwT9NRkx_37nxnHPGyYIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

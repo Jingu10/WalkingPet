@@ -1,0 +1,36 @@
+spring:
+  profiles:
+    include: secret
+#    include: dev-secret, dev
+  servlet:
+    multipart:
+      max-file-size: 50MB
+      max-request-size: 50MB
+  jpa:
+    properties:
+      hibernate:
+        format_sql: true
+        default_batch_fetch_size: 1000  # select 배치 조회 크기
+
+  batch:
+    job:
+      enabled: false # 애플리케이션 실행 시 job이 실행되지 않도록하기 위해
+
+logging:
+  level:
+    org.hibernate.SQL: debug
+    org.hibernate.type: trace
+
+servlet:
+  multipart:
+    max-file-size: 20MB
+    max-request-size: 20MB
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+
+#server:
+#  port: 9090

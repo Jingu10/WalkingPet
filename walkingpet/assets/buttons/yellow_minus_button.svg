@@ -1,0 +1,22 @@
+<svg width="23" height="21" viewBox="0 0 23 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M21.2305 2H20.1689V18.3333H21.2305V2Z" fill="#000001"/>
+<path d="M20.24 0.866211H0.920166V19.0662H20.24V0.866211Z" fill="url(#paint0_linear_944_2301)"/>
+<path d="M23 2H21.9385V18.3333H23V2Z" fill="#000001"/>
+<path d="M21.2307 18H19.1077V21H21.2307V18Z" fill="#000001"/>
+<path d="M21.2307 0H19.1077V2.33333H21.2307V0Z" fill="#000001"/>
+<path d="M19.461 19H1.41504V20H19.461V19Z" fill="#000001"/>
+<path d="M19.1077 0H2.12329V0.999998H19.1077V0Z" fill="#000001"/>
+<path d="M2.12281 18.333H1.06128V19.333H2.12281V18.333Z" fill="#000001"/>
+<path d="M2.12281 19H1.06128V20H2.12281V19Z" fill="#000001"/>
+<path d="M2.12281 1H1.06128V2H2.12281V1Z" fill="#000001"/>
+<path d="M1.06153 2H0V18.3333H1.06153V2Z" fill="#000001"/>
+<path d="M21.9386 1H21.231V20H21.9386V1Z" fill="#000001"/>
+<path d="M21.23 20H2.47632V21H21.23V20Z" fill="#000001"/>
+<path d="M5.5 8.5H15.5V11.5H5.5V8.5Z" fill="white" stroke="black"/>
+<defs>
+<linearGradient id="paint0_linear_944_2301" x1="10.5801" y1="0.866211" x2="10.5801" y2="19.0662" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FEC231"/>
+<stop offset="1" stop-color="#FDB331"/>
+</linearGradient>
+</defs>
+</svg>

@@ -1,0 +1,100 @@
+name: walkingpet
+description: "A new Flutter project."
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.3 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  geolocator: ^11.0.0
+  flutter_dotenv: ^5.1.0
+  kakaomap_webview: ^0.6.2
+  pedometer: ^4.0.1
+  permission_handler: ^11.3.1
+  vibration: ^1.8.4
+  flutter_blue_plus: ^1.32.4
+  flutter_foreground_task: ^6.1.3
+  cupertino_icons: ^1.0.6
+  pixelarticons: ^0.4.0
+  flutter_svg: ^2.0.1
+  nes_ui: ^0.20.0
+  provider: ^6.1.2
+  motion_tab_bar: ^2.0.4
+  http: ^0.13.4
+  #  http: ^1.2.1
+  percent_indicator: ^4.2.3
+  kakao_flutter_sdk: ^1.4.2
+  #  kakao_flutter_sdk: ^1.9.0
+  flutter_secure_storage: ^4.2.1
+  shared_preferences: ^2.2.3
+  flutter_local_notifications: ^17.1.2
+  timezone: ^0.9.3
+  intl: ^0.19.0
+  firebase_core: ^2.31.0
+  firebase_messaging: ^14.9.2
+  image_picker: ^1.1.1
+  audioplayers: ^6.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+  flutter_launcher_icons: "^0.13.1"
+
+flutter_icons:
+  ios: true
+  android: true
+  image_path: "assets/images/appstore.png"
+  remove_alpha_ios: true
+
+flutter:
+  uses-material-design: true
+
+  fonts:
+    - family: DungGeunMo
+      fonts:
+        - asset: assets/fonts/DungGeunMo.ttf
+
+  assets:
+    - .env
+    - assets/
+    - assets/animals/
+    - assets/animals/bunny/
+    - assets/animals/chicken/
+    - assets/animals/cow/
+    - assets/animals/crow/
+    - assets/animals/dog/
+    - assets/animals/duck/
+    - assets/animals/ducky/
+    - assets/animals/falcon/
+    - assets/animals/fox/
+    - assets/animals/frog/
+    - assets/animals/lilhedgehog/
+    - assets/animals/lilotter/
+    - assets/animals/mouse/
+    - assets/animals/nutty/
+    - assets/animals/panda/
+    - assets/animals/parrot/
+    - assets/animals/raccoon/
+    - assets/animals/redcrane/
+    - assets/animals/rhino/
+    - assets/animals/squirrel/
+    - assets/animals/turtle/
+    - assets/animals/red_dragon/
+    - assets/animals/black_dragon/
+    - assets/animals/bronze_dragon/
+    - assets/animals/dark_dragon/
+    - assets/animals/black_wolf/
+    - assets/animals/feral_wolf/
+    - assets/animals/brown_wolf/
+    - assets/backgrounds/
+    - assets/buttons/
+    - assets/icons/
+    - assets/images/
+    - assets/items/
+    - assets/audio/

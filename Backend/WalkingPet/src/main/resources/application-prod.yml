@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: jdbc:mysql://k10b102.p.ssafy.io:3305/walkingpet?serverTimezone=Asia/Seoul
+  jpa:
+    hibernate:
+      ddl-auto: none
+
